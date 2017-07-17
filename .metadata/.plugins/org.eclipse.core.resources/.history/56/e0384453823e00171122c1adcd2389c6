@@ -1,0 +1,13 @@
+package br.com.teste.json;
+
+public class JsonCreate {
+	
+	public JsonObject generate(String nome,int codigo, String categoria,
+			int preco){
+		JsonObject jsonResul;
+	
+		
+		return jsonResult;
+	}
+
+}
